@@ -4,6 +4,24 @@ A modern, content-driven blogging platform built using **React 19**, **Next.js 1
 
 ---
 
+## 🌐 Live Preview  
+🔗 [View Live](https://thought-hub-2852.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 19**: Modern, component-based library for building interactive UIs.
+- **Next.js 15**: Full-stack React framework for server-side rendering, static site generation, and routing.
+- **Tailwind CSS**: Utility-first CSS framework for fast, responsive design.
+- **Sanity.io**: Headless CMS for flexible content management and real-time updates.
+- **NextAuth.js**: Authentication solution for secure login via multiple providers.
+- **Sentry**: Real-time error tracking and performance monitoring.
+
+These technologies ensure a high-performance, scalable, and responsive web application with a focus on clean and maintainable code.
+
+---
+
 ## 🔋 Features
 
 👉 **Live Content API** – Dynamically loads the latest blog posts on the homepage via Sanity's Content API.  
@@ -22,5 +40,3 @@ And more—leveraging the latest **React**, **Next.js App Router**, and **Sanity
 
 ---
 
-## 🌐 Live Preview  
-🔗 [View Live](https://thought-hub-2852.vercel.app/)
