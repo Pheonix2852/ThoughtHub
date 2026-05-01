@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="./public/ThoughtHub.png" alt="ThoughtHub" width="100%" />
+</p>
+
 ## ✍️ ThoughtHb
 
 A modern, content-driven blogging platform built using **React 19**, **Next.js 15**, and **Sanity CMS**. This platform empowers users to share, discover, and engage with innovative blogs through a clean, user-friendly interface. It supports rich media content, user authentication, and editorial curation—designed for creators, founders, and blog enthusiasts.
 
 ---
 
-## 🌐 Live Preview  
+## 🌐 Live Preview
+
 🔗 [View Live](https://thought-hub-2852.vercel.app/)
 
 ---
@@ -39,4 +44,3 @@ These technologies ensure a high-performance, scalable, and responsive web appli
 And more—leveraging the latest **React**, **Next.js App Router**, and **Sanity features**, built with modular components, scalable structure, and reusability in mind.
 
 ---
-
